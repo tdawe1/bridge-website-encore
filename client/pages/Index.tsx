@@ -106,8 +106,8 @@ export default function Index() {
                 <strong className="text-headline">
                   Spending hours refreshing job boards just to secure work?
                 </strong>
-                &nbsp;Our translation workflow now captures jobs
-                automatically, filters for quality, and delivers first-pass
+                &nbsp;Our translation workflow now captures jobs automatically,
+                filters for quality, and delivers first-pass
                 translations—letting our client reliably generate revenue{" "}
                 <strong className="text-headline">without</strong> constant
                 monitoring.
