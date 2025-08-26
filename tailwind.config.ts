@@ -14,6 +14,15 @@ export default {
     },
     extend: {
       colors: {
+        // Bridge & Signal Brand Colors
+        brand: {
+          white: "#FFFFFF",
+          'soft-gray': "#F8F9FA",
+          'charcoal': "#212529",
+          'black': "#000000",
+          'electric-blue': "#007BFF",
+        },
+        // Keep existing system colors for components
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
