@@ -96,7 +96,7 @@ export default function Index() {
             Real-World Bottlenecks, Solved.
           </h2>
           <p className="text-2xl text-body mb-16 font-medium">
-            Do any of these sound familiar?
+            Our projects remove barriers to your business vision.
           </p>
 
           <div className="space-y-12 text-left">
@@ -105,9 +105,9 @@ export default function Index() {
               <p className="text-lg text-body leading-relaxed">
                 <strong className="text-headline">
                   Spending hours refreshing job boards just to secure work?
-                </strong>{" "}
-                Our translation workflow now captures jobs automatically,
-                filters for quality, and delivers first-pass
+                </strong>
+                &nbsp;Our translation workflow now captures jobs
+                automatically, filters for quality, and delivers first-pass
                 translations—letting our client reliably generate revenue{" "}
                 <strong className="text-headline">without</strong> constant
                 monitoring.
